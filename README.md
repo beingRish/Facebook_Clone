@@ -2,6 +2,6 @@
 
 Created a Facebook Log In / Sign Up Page Clone using Tailwind CSS.
 
-![SpotifySpotifyPremiumGIF](https://user-images.githubusercontent.com/103645516/227699721-1b13fc27-5b48-45c6-93a3-eadd3d021248.gif)
+![FacebookFindUsGIF](https://user-images.githubusercontent.com/103645516/228663939-38dbb0ab-7cab-4761-aa9d-7261ae1b6e30.gif)
 
-[See the App Here](https://magical-choux-303719.netlify.app)
+[See the App Here]()
